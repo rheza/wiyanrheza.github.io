@@ -54,7 +54,7 @@ h1 {
 }
 
 figcaption, figure, main {
-    display: block;
+    display: inherit;
 }
 
 figure {
