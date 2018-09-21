@@ -773,7 +773,7 @@ input[type="reset"],
 input[type="button"] {
     display: inline-block;
     font-family: "montserrat-semibold", sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
     height: 5.4rem;
@@ -1656,6 +1656,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     line-height: 72px;
     color: #FFFFFF;
+    font-size: 18px;
 }
 
 .header-nav li.current a {
@@ -1799,7 +1800,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h1 {
     font-family: "librebaskerville-bold", serif;
     color: #FFFFFF;
-    font-size: 6rem;
+    font-size: 5rem;
     line-height: 1.35;
     margin-top: 0;
 }
@@ -1813,6 +1814,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     right: 0;
     bottom: 2.1rem;
+    
     text-align: center;
 }
 
